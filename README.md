@@ -13,3 +13,7 @@ A simple number guessing game made using Python.
 
 - Python
 - Random module
+
+## Future Improvements
+
+- Add more game features
