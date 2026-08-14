@@ -14,6 +14,6 @@ A simple number guessing game made using Python.
 - Python
 - Random module
 
-## Future Improvements
+## Author
 
-- Add more game features
+Created as a Python practice project while learning Git and GitHub.
