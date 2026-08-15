@@ -32,5 +32,3 @@ while play == "y":
     play = input("Do you want to play again? (y/n): ").lower()
 
 print("Thanks for playing! 🎮")
-
-print("This commit will be reverted.")
