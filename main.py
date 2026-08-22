@@ -31,4 +31,4 @@ while play == "y":
 
     play = input("Do you want to play again? (y/n): ").lower()
 
-print("Thanks for playing! 🎮")
+print("Thanks for playing‼ 🎮")
