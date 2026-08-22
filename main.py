@@ -8,7 +8,7 @@ while play == "y":
 
     number = random.randint(1, 100)
 
-    print("🎯 WELCOME TO THE NUMBER GUESSING GAME 🎯")
+    print("🎯Welcome to the Best Number Guessing Game!🎯")
     print("Guess a number between 1 and 100")
 
     guess = 0
