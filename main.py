@@ -8,11 +8,7 @@ while play == "y":
 
     number = random.randint(1, 100)
 
-<<<<<<< HEAD
-    print("🎯Welcome to the Best Number Guessing Game!🎯")
-=======
     print("🎯Welcome to the Awesome Number Guessing Game!🎯")
->>>>>>> conflict-demo
     print("Guess a number between 1 and 100")
 
     guess = 0
