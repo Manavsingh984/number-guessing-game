@@ -14,6 +14,12 @@ A simple number guessing game made using Python.
 - Python
 - Random module
 
-## Author
+### About This Project
 
-Created as a Python practice project while learning Git and GitHub.
+This project was developed to strengthen my Python programming fundamentals while gaining hands-on experience with Git and GitHub.
+
+### Author
+
+Manav Singh  
+B.Tech Computer Science and Engineering Student  
+GitHub: [Manavsingh984](https://github.com/Manavsingh984)
